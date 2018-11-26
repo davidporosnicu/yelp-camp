@@ -24,8 +24,6 @@ Features
 
         Upload campground photos
 
-        Display campground location on Google Maps
-
         Search existing campgrounds
 
 
